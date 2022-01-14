@@ -10,7 +10,6 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 - 🌱 I’m currently learning blockchain technologies
 - 🤔 I’m looking to help with buliding defi and web apps
 - 💬 Ask me about web and blockchain developmentCancel changes
-- 📫 How to reach me: superaguy106@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
