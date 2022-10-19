@@ -1,15 +1,15 @@
 ### Hey Everyone 👋
 
-Hi. I'm a Full-Stack developer who likes to work with JavaScript/Typescript (Preact, Next.js, Vue.js, Node), Blockchain(Bitcoin, Ethereum, Solidity, Rust), Python among others.
+Hi. I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React, Next.js, Redux, Vue.js, Node), Blockchain(Bitcoin, Ethereum, Solidity, Rust), Python among others.
 Since I've graduated the university, I’ve joined several companies and dev teams to build web and mobile apps.
 
-Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
+Nowadays I am passionate about blockchain technologies so that I'm mainly focusing on the Defi/dApp development stack.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
 - 🌱 I’m currently learning blockchain technologies
 - 🤔 I’m looking to help with buliding defi and web apps
-- 💬 Ask me about web and blockchain developmentCancel changes
+- 💬 Ask me about web and blockchain development
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
@@ -49,7 +49,3 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
-
-### Find me elsewhere 🌎
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steve-jin-102509205/)](https://www.linkedin.com/in/steve-jin-102509205/)  -->
