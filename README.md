@@ -5,7 +5,7 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 
 Nowadays I am passionate about blockchain technologies so that I'm mainly focusing on the application-special blockchain with Cosmos SDK/Tendermint/CometBFT, IBC integration and Defi/dApp development with CosmWasm, CosmJS.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
+<img align="right" alt="GIF" src="https://github.com/MosFazli/MosFazli/blob/main/assets/zeig-infotech-seo-gif.gif" width="400" height="256" />
 
 - 🌱 I’m currently learning blockchain technologies - Cosmos SDK, IBC, Tendermint
 - 🤔 I’m looking to help with buliding defi and web apps
