@@ -1,17 +1,18 @@
-### Hey Everyone 👋
+## 👨‍💼 Hi, thank you for visiting my profile
 
-Hi. I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React, Next.js, Redux, Vue.js, Node), Blockchain(Bitcoin, Ethereum, Cosmos, Solidity, Rust), Golang, Python among others.
+I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React, Next.js, Redux, Vue.js, Node), Blockchain(Bitcoin, Ethereum, Cosmos, Solidity, Rust), Golang, Python among others.
 Since I've graduated the university, I’ve joined several companies and dev teams to build web/mobile and web3 apps.
 
 Nowadays I am passionate about blockchain technologies so that I'm mainly focusing on the application-special blockchain with Cosmos SDK/Tendermint/CometBFT, IBC integration and Defi/dApp development with CosmWasm, CosmJS.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
-- 🌱 I’m currently learning blockchain technologies - Cosmos
+- 🌱 I’m currently learning blockchain technologies - Cosmos SDK, IBC, Tendermint
 - 🤔 I’m looking to help with buliding defi and web apps
 - 💬 Ask me about web and blockchain development
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Coding, Gaming
+- 🏰 Strong: Strategic Game
 
 
 ### Languages and Tools:
@@ -32,7 +33,9 @@ Nowadays I am passionate about blockchain technologies so that I'm mainly focusi
 #### Blockchain Development
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Cosmos-informational?style=flat&logo=cosmos-sdk&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Cosmos-informational?style=flat&logo=cosmos&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-CosmosSDK-informational?style=flat&logo=cosmos-sdk&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Consensus-CometBFT-informational?style=flat&logo=comet-bft&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Golang-informational?style=flat&logo=go&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust&logoColor=white&color=3bac3a)
@@ -44,13 +47,17 @@ Nowadays I am passionate about blockchain technologies so that I'm mainly focusi
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Cloud-ASW-informational?style=flat&logo=aws&logoColor=white&color=3bac3a)
 
 #### Other
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
+
+# 🫂
