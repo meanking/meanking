@@ -38,8 +38,8 @@ Nowadays I am passionate about blockchain technologies so that I'm mainly focusi
 #### Blockchain Development
 ![](https://img.shields.io/badge/Network-Cosmos-informational?style=flat&logo=cosmos&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-CosmosSDK-informational?style=flat&logo=cosmos-sdk&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Consensus-CometBFT-informational?style=flat&logo=comet-bft&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Platform-CosmWasm-informational?style=flat&logo=cosmwasm&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Platform-CometBFT-informational?style=flat&logo=comet-bft&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Library-CosmWasm-informational?style=flat&logo=cosmwasm&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Golang-informational?style=flat&logo=go&logoColor=white&color=3bac3a)
