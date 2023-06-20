@@ -1,14 +1,14 @@
 ## 👨‍💼 Hi, thank you for visiting my profile
 
 I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React, Next.js, Redux, Vue.js, Node), Blockchain(Bitcoin, Ethereum, Cosmos, Solidity, Rust), Golang, Python among others.
-Since I've graduated the university, I’ve joined several companies and dev teams to build web/mobile and web3 apps.
+Since I graduated from the university, I’ve joined several companies and dev teams to build web/mobile and web3 apps.
 
-Nowadays I am passionate about blockchain technologies so that I'm mainly focusing on the application-special blockchain with Cosmos SDK/Tendermint/CometBFT, IBC integration and Defi/dApp development with CosmWasm, CosmJS.
+Nowadays I am passionate about blockchain technologies so I'm mainly focusing on the application-special blockchain with Cosmos SDK/Tendermint/CometBFT, IBC integration, and Defi/dApp development with CosmWasm, and CosmJS.
 
 <img align="right" alt="GIF" src="https://github.com/MosFazli/MosFazli/blob/main/assets/zeig-infotech-seo-gif.gif" width="400" height="256" />
 
-- 🌱 I’m currently learning blockchain technologies - Cosmos SDK, IBC, Tendermint
-- 🤔 I’m looking to help with buliding defi and web apps
+- 🌱 I’m currently learning, and practicing, AI, ML, DL, etc
+- 🤔 I’m looking to help with building, application specific blockchain, multichain bridging, defi, and web apps
 - 💬 Ask me about web and blockchain development
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Coding, Gaming
